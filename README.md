@@ -14,8 +14,11 @@ jack the rigger#6849
 
  
 prime 1 any% 45   1000 dollars paypall or btc
+
 prime 1 100% 1:05 1000 dollars paypall or btc
+
 prime 1 21% 1:40  1000 dollars paypall or btc
+
 prime 1 damageless 1000 dollars paypall or btc
  
 happy running.
